@@ -1,1 +1,1 @@
-* * * * * root /root/blacklist/chklist.sh
+*/30 * * * * root /root/blacklist/chklist.sh
